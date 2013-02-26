@@ -1,0 +1,6 @@
+BCD Multiplex Counter, uses 
+-4511 BCD Encoder to display numbers on 7 Segment Displays
+-4017 Decade counter to multiplex display
+-rotary encoder to increment/decrement numbers
+
+tbd: EEPROM handling, I2c code
